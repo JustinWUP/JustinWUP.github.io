@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Ryan Bean</title>
+    <link>http://hugo.spf13.com/index.xml</link>
+    <description>Recent content on Justin Ryan Bean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://hugo.spf13.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Justin Bean</title>
+      <link>http://hugo.spf13.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo.spf13.com/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;who-is-justin-bean&#34;&gt;Who is Justin Bean?&lt;/h2&gt;
+
+&lt;p&gt;I read a lot. I like &lt;a href=&#34;http://en.wikipedia.org/wiki/T-shaped_skills&#34;&gt;T-shaped things.&lt;/a&gt; I am a self-taught web developer with over two decades of experience and I prefer open-source technologies. I am a seasoned business strategy academic with a bachelor&amp;rsquo;s degree in marketing and professional experience in B2C, B2B and B2G industries and specialization in internet marketing/e-commerce.&lt;/p&gt;
+
+&lt;p&gt;With HobbyDB, I am an alumni of the 2015 class at Techstars Boulder.&lt;/p&gt;
+
+&lt;p&gt;I have worked with companies of all sizes throughout North America on technical and digital marketing projects in industries as diverse as private aviation, social network development, telephony, education, heavy machinery, hospitality and consumer packaged goods. I have done business with such well-known Fortune 500 companies and international organizations as Swingline, Hyatt Hotels, Mitsubishi, US Cellular, Tyson Foods, Northern Trust, Houghton Mifflin Harcourt and The Academy of Nutrition and Dietetics.&lt;/p&gt;
+
+&lt;p&gt;I currently live in Boulder, CO and am the Director of Engineering at Tango31.&lt;/p&gt;
+
+&lt;h2 id=&#34;interested-in-working-together&#34;&gt;Interested in working together?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Tell me more!&lt;/em&gt; I&amp;rsquo;m always looking for new projects to work with others on. If you&amp;rsquo;re in the Boulder or Denver area, &lt;a href=&#34;mailto:justin.r.bean@gmail.com?subject=&#34; title=&#34;We should grab coffee.&#34;&gt;send me an email&lt;/a&gt; or contact me on &lt;a href=&#34;http://www.linkedin.com/in/justinbean&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s grab a coffee and get to know each other.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://hugo.spf13.com/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo.spf13.com/skills/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-can-you-do&#34;&gt;What can you do?&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;h3&amp;gt;Languages:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;indent&amp;quot;&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Elixir&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Erlang&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Ruby&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Go&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;C&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Javascript&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;PHP&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;SASS/LESS/Stylus&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;Coffeescript&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;HAML&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;language&amp;quot;&amp;gt;HTML/CSS&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;Frameworks:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Elixir:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;framework elixir&amp;quot;&amp;gt;Phoenix&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Ruby:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;framework ruby&amp;quot;&amp;gt;Rails&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;framework ruby&amp;quot;&amp;gt;Sinatra&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework ruby&amp;quot;&amp;gt;Grape&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Javascript:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;framework javascript&amp;quot;&amp;gt;Backbone/Marionette&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework javascript&amp;quot;&amp;gt;Angular&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;PHP:&amp;lt;/strong&amp;gt; 
+    &amp;lt;span class=&amp;quot;framework php&amp;quot;&amp;gt;Laravel&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework php&amp;quot;&amp;gt;Codeigniter&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework php&amp;quot;&amp;gt;WordPress&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework php&amp;quot;&amp;gt;Drupal&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;framework php&amp;quot;&amp;gt;Magento&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;Databases:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;span class=&amp;quot;databases relational&amp;quot;&amp;gt;PostgreSQL&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases relational&amp;quot;&amp;gt;MySQL&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases key-value&amp;quot;&amp;gt;Redis&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases document&amp;quot;&amp;gt;MongoDB&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases graph&amp;quot;&amp;gt;Neo4J&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases graph&amp;quot;&amp;gt;ArangoDB&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;databases time-series&amp;quot;&amp;gt;InfluxDB&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;DevOps:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;AWS:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;EC2&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;ElasticBeanstalk&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;RDS&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;CloudFormation&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;Ansible&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;Chef&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;S3&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops aws&amp;quot;&amp;gt;VPC&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Heroku&amp;lt;/strong&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Continuous Integration:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;devops ci&amp;quot;&amp;gt;Jenkins&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops ci&amp;quot;&amp;gt;SemaphoreCI&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops ci&amp;quot;&amp;gt;Bamboo&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Server Configuration:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;devops server&amp;quot;&amp;gt;Apache&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;devops server&amp;quot;&amp;gt;Nginx&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;strong&amp;gt;Testing:&amp;lt;/strong&amp;gt;
+    &amp;lt;span class=&amp;quot;testing ruby&amp;quot;&amp;gt;RSpec&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;testing elixir&amp;quot;&amp;gt;ExUnit&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;Libraries/Tools:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;row indent&amp;quot;&amp;gt;
+    &amp;lt;span class=&amp;quot;library javascript&amp;quot;&amp;gt;jQuery&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool html5&amp;quot;&amp;gt;Canvas&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool ruby background-processing&amp;quot;&amp;gt;Sidekiq&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool ruby background-processing&amp;quot;&amp;gt;Delayed Job&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool ruby background-processing&amp;quot;&amp;gt;Resque&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool erlang queue&amp;quot;&amp;gt;RabbitMQ&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool os&amp;quot;&amp;gt;Linux&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool vsc&amp;quot;&amp;gt;Git&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool shell&amp;quot;&amp;gt;ZSH&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;tool shell&amp;quot;&amp;gt;Bash&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;Miscellaneous Fascinations:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;indent&amp;quot;&amp;gt;
+    &amp;lt;span class=&amp;quot;tinker&amp;quot;&amp;gt;Arduino/Breadboarding&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;tinker&amp;quot;&amp;gt;Pebble Smartwatch SDK&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;tinker&amp;quot;&amp;gt;Reverse Engineering&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;studies&amp;quot;&amp;gt;RESTful conventions&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;leisure&amp;quot;&amp;gt;Road Biking&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;leisure&amp;quot;&amp;gt;Coffee/Espresso&amp;lt;/span&amp;gt; 
+    &amp;lt;span class=&amp;quot;leisure&amp;quot;&amp;gt;Film&amp;lt;/span&amp;gt; 
+&amp;lt;/div&amp;gt;
+
+&amp;lt;h3&amp;gt;Business Skills:&amp;lt;/h3&amp;gt;
+&amp;lt;div class=&amp;quot;indent&amp;quot;&amp;gt;
+    &amp;lt;span class=&amp;quot;business&amp;quot;&amp;gt;Business Strategy&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-marketing&amp;quot;&amp;gt;Social Media Marketing&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-marketing&amp;quot;&amp;gt;Email Marketing&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-marketing&amp;quot;&amp;gt;Search Engine Marketing&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-marketing&amp;quot;&amp;gt;e-Commerce&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-marketing&amp;quot;&amp;gt;Copywriting&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&amp;quot;digital-media&amp;quot;&amp;gt;Web/Print Design&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
